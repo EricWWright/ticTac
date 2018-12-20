@@ -1,0 +1,11 @@
+display instructions
+who goes first
+create a board
+display board
+while nobody has won and it is not a tie
+if it's the humans turn 
+get input for move
+update board
+else
+calculate cp moveupdate boarddisplay boardswitch turns
+win lose tie
